@@ -1,1 +1,1 @@
-https://turtlekim322.github.io/블로그 댓글 모음(Issues)
+https://turtlekim322.github.io/ 블로그 댓글 모음(Issues)
